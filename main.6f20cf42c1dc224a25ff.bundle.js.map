@@ -1,1 +1,0 @@
-{"version":3,"file":"main.6f20cf42c1dc224a25ff.bundle.js","sources":["webpack:///./src/components/variables.js"],"sourcesContent":["\r\nexport const PRIMARY_COLOUR = \"#ED242A\";\r\nexport const PRIMARY_FONT = \"Quicksand, sans-serif\";\r\nexport const SHADOW_RAISE_1 = \"rgba(0,0,0,0.1) 3px 3px 5px\";"],"mappings":"AACA","sourceRoot":""}
